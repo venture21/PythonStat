@@ -1,33 +1,20 @@
-# 『Pythonで理解する統計解析の基礎』のサポートページ
+# 『누구나파이썬통계』
 
-谷合廣紀 著、辻真吾 監修  
-B5変／320ページ／本体価格2,980円＋税  
-ISBN978-4297100490  
-技術評論社、2018年発行  
+## 예제 코드
 
-## サンプルコード
+- notebook: 본문 안에 게재된 코드가 적힌 notebook
+- animation: 인터랙티브하게 조작할 수 있거나 애니메이션을 재생할 수 있는 코드가 적힌 notebook
+- data: 본문 중에서 사용하는 데이터
 
-- notebook: 本文中に掲載されているコードが書かれたnotebook
-- animation: 本文中に <img src="samplecode.png" height=13px> と記載されているインタラクティブに操作できたりアニメーションを再生できるコードが書かれたnotebook
-- data: 本文中で使うデータ
-
-## Pythonとライブラリのインストール方法
-
-インストール方法はOSごとに次を参考にしてください。
+## 파이썬과 라이브러리 설치 안내
 
 - [Windows10](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/env_const/windows10.md)
 - [MacOS](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/env_const/macos.md)
 - [Ubuntu16](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/env_const/ubuntu16.md)
 
-## Pythonとライブラリの基本
-
-Pythonの使い方を学ぶための簡単なnotebookを用意してあります。
+## Python과 라이브러리 사용법 기본
 
 - [Pythonの基本](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/python.ipynb)
 - [NumPyの使い方](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/numpy.ipynb)
 - [Pandasの使い方](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/pandas.ipynb)
 <!-- - [Matplotlibの使い方](https://github.com/ghmagazine/python_stat_sample/blob/master/tutorial/matplotlib.ipynb) -->
-
-まったくのプログラミング初心者の方は、これらのnotebookだけで理解するのは大変だと思います。
-そのような方は
-[Pythonスタートブック](http://gihyo.jp/book/2018/978-4-7741-9643-5)で勉強することをおすすめします。
